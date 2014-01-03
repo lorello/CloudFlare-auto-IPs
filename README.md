@@ -15,3 +15,7 @@ sh cf.sh
 This will setup the script in your server to run each day checking for new IPs to add.
 
 Please, verify that UFW is enabled, this script doesn't activate it.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lorello/cloudflare-auto-ips/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
